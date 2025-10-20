@@ -1,1 +1,1 @@
-password = niga123
+pass =123
